@@ -40,15 +40,15 @@ module.exports = (() => {
                 "github_username": "Metalloriff",
                 "twitter_username": "Metalloriff"
             }],
-            "version": "3.0.0",
+            "version": "3.0.1",
             "description": "Allows you to set birthdays for users and get notified when it's a user's birthday.",
             "github": "https://github.com/Metalloriff/BetterDiscordPlugins/blob/master/UserBirthdays.plugin.js",
             "github_raw": "https://raw.githubusercontent.com/Metalloriff/BetterDiscordPlugins/master/UserBirthdays.plugin.js"
         },
         "changelog": [{
-            "title": "Rewritten!",
+            "title": "Rewritten yet again!",
             "type": "improved",
-            "items": ["UserBirthdays fixed by Danielle#1788"]
+            "items": ["UserBirthdays fixed by Colonel_Gerdauf#8888"]
         }]
     };
 
@@ -213,14 +213,14 @@ module.exports = (() => {
 
                 get c() {
                     return {
-                        app: "app-1q1i1E",
-                        layerContainer: "layerContainer-yqaFcK",
+                        app: "app-1q1i1E", //app-3xd6d0 //app-2CXKsg
+                        layerContainer: "layerContainer-yqaFcK", //layerContainer-2v_Sit
                         userPopout: "userPopout-xaxa6l",
                         popouts: "popouts-2bnG9Z",
                         note: {
-                            self: "note-1oo11U",
+                            self: "note-1oo11U", //note-3M15gE
                             title: "bodyTitle-1ySSKn base-1x0h_U size12-3cLvbJ",
-                            textArea: "textarea-2r0oV8 scrollbarGhostHairline-1mSOM1 scrollbar-3dvm_9"
+                            textArea: "textarea-2r0oV8 scrollbarGhostHairline-1mSOM1 scrollbar-3dvm_9" //textarea-_59yqs
                         },
                         profile: {
                             self: "userInfoSection-q_35fn",
